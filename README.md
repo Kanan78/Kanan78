@@ -1,23 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Kanan%20Musayev&fontSize=52&fontColor=00ff99&animation=fadeIn&fontAlignY=38&desc=Cybersecurity%20Student%20%7C%20Security%20Tooling%20%7C%20Networking&descSize=16&descAlignY=60&descColor=aaaaaa)
-
-</div>
-
----
-
-```
- ██╗  ██╗ █████╗ ███╗   ██╗ █████╗ ███╗   ██╗
- ██║ ██╔╝██╔══██╗████╗  ██║██╔══██╗████╗  ██║
- █████╔╝ ███████║██╔██╗ ██║███████║██╔██╗ ██║
- ██╔═██╗ ██╔══██║██║╚██╗██║██╔══██║██║╚██╗██║
- ██║  ██╗██║  ██║██║ ╚████║██║  ██║██║ ╚████║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝╚═╝  ╚═══╝
-```
-
-<div align="center">
-
-> *"The quieter you become, the more you can hear."* — security mindset
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,100:1a1a2e&height=200&section=header&text=Kanan%20Musayev&fontSize=52&fontColor=ff8c00&animation=fadeIn&fontAlignY=38&desc=Penetration%20Tester%20%7C%20Red%20Team%20%7C%20Offensive%20Security&descSize=16&descAlignY=60&descColor=ff8c00)
 
 </div>
 
@@ -25,14 +8,7 @@
 
 ## 👾 About Me
 
-```python
-class Kanan78:
-    name     = "Kanan Musayev"
-    role     = "Cybersecurity Student"
-    focus    = ["Offensive Security", "Network Analysis", "Security Tooling"]
-    learning = ["Penetration Testing", "Protocol Reverse Engineering", "Linux Internals"]
-    os       = "Linux > everything"
-```
+Cybersecurity student focused on offensive security and red team operations. I spend my time on penetration testing, network analysis and building custom security tooling, with an emphasis on understanding how systems fail so they can be hardened.
 
 ---
 
@@ -62,15 +38,6 @@ class Kanan78:
 ![GitHub Streak](https://streak-stats.demolab.com?user=Kanan78&theme=tokyonight&hide_border=true&background=0d1117&ring=00ff99&fire=00ff99&currStreakLabel=00ff99)
 
 </div>
-
----
-
-## 🔭 Currently Working On
-
-- 🔐 Deepening knowledge in **network security & protocol analysis**
-- 🐍 Building **security tools in Python**
-- 🧠 Studying for **cybersecurity certifications**
-- 🐧 Mastering **Linux internals & system hardening**
 
 ---
 
