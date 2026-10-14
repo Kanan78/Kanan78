@@ -27,6 +27,27 @@ Cybersecurity student focused on offensive security and red team operations. I s
 
 ---
 
+## 🎯 Platforms
+
+<div align="center">
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff8c00)](https://tryhackme.com/p/YOUR_THM_USERNAME)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff8c00)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+
+</div>
+
+---
+
+## 🏅 Certifications
+
+<div align="center">
+
+![CRTA](https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-0d1117?style=for-the-badge&labelColor=ff8c00&color=0d1117)
+
+</div>
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
