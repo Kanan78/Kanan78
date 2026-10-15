@@ -8,7 +8,7 @@
 
 ## 👾 About Me
 
-Cybersecurity student focused on offensive security and red team operations. I spend my time on penetration testing, network analysis and building custom security tooling, with an emphasis on understanding how systems fail so they can be hardened.
+Cybersecurity student focused on offensive security and red team operations. I spend my time on penetration testing, network analysis and hands-on lab practice, with an emphasis on understanding how systems fail so they can be hardened.
 
 ---
 
