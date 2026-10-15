@@ -31,10 +31,10 @@ Cybersecurity student focused on offensive security and red team operations. I s
 
 <div align="center">
 
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff8c00)](https://tryhackme.com/p/YOUR_THM_USERNAME)
-[![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff8c00)](https://app.hackthebox.com/profile/YOUR_HTB_ID)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-0d1117?style=for-the-badge&logo=tryhackme&logoColor=ff8c00)](https://tryhackme.com/p/kanan78)
+[![HackTheBox](https://img.shields.io/badge/HackTheBox-0d1117?style=for-the-badge&logo=hackthebox&logoColor=ff8c00)](https://app.hackthebox.com/users/3761787)
 
-</div>
+</div
 
 ---
 
@@ -42,7 +42,7 @@ Cybersecurity student focused on offensive security and red team operations. I s
 
 <div align="center">
 
-![CRTA](https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-0d1117?style=for-the-badge&labelColor=ff8c00&color=0d1117)
+[![CRTA](https://img.shields.io/badge/CRTA-Certified%20Red%20Team%20Analyst-0d1117?style=for-the-badge&labelColor=ff8c00&color=0d1117)](https://labs.cyberwarfare.live/credential/achievement/6a5fdf76345e0a58160fc644)
 
 </div>
 
@@ -67,15 +67,11 @@ Cybersecurity student focused on offensive security and red team operations. I s
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=ff8c00)](https://github.com/Kanan78)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff8c00)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff8c00)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=ff8c00)](https://www.linkedin.com/in/kanan-musayev-a35556335)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=ff8c00)](mailto:kmusayev27@gmail.com)
 
 </div>
 
 ---
 
-<div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:2a1a05,100:0d0d0d&height=100&section=footer)
-
-</div>
